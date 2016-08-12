@@ -17,7 +17,6 @@ boolean rightPressed = false ;
 int bg1X, bg2X, enemyX, enemyY, treasureX, treasureY, fighterX, fighterY;
 int hpLength ;
 int gameState, enemyWave;
-int enemyAnchorX, enemyAnchorY ;
 int i, j;//counter
 
 void setup () {
